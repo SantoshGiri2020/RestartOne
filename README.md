@@ -1,2 +1,2 @@
 # RestartOne
-This is for restart session
+This is for the restart session.
